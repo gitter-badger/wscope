@@ -2,7 +2,7 @@
 
 Some of the improvements planned for the next versions of Telescope. Email [hello@telesc.pe](mailto:hello@telesc.pe) if you think you can help with any of this!
 
-[Fixing issues](https://github.com/TelescopeJS/Telescope/issues) is also a great way to pitch in :)
+[Fixing issues](https://github.com/TelescopeJS/Telescope/issues) is also a great way to pitch in :)adda
 
 - Get rid of default user account dropdown. 
 - Better user profiles. 
