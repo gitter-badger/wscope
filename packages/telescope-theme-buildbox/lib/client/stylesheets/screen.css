@@ -1,0 +1,13 @@
+body{
+  background: #cc0000;
+}
+
+
+.welcome-message{
+  text-align: center;
+  color: white;
+}
+
+.notifications-menu {
+    display: none !important;
+}

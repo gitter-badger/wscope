@@ -1,0 +1,16 @@
+body{
+  background: #fff !important;
+}
+
+
+.welcome-message{
+  text-align: center;
+  color: white;
+}
+
+.post {
+position: relative;
+width: 100%;
+background: white;
+border-bottom: 5px solid #1a1a1a;
+}
