@@ -10,7 +10,11 @@
     ],
     [
       "meteor",
+<<<<<<< HEAD
       "1.1.0"
+=======
+      "1.1.1"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "underscore",
@@ -18,6 +22,10 @@
     ]
   ],
   "pluginDependencies": [],
+<<<<<<< HEAD
   "toolVersion": "meteor-tool@1.0.31",
+=======
+  "toolVersion": "meteor-tool@1.0.32",
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
   "format": "1.0"
 }

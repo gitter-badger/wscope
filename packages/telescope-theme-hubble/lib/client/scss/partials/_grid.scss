@@ -44,10 +44,19 @@ $medium-break: 50em;
 	margin-left: auto;
 	margin-right: auto;
 }
+<<<<<<< HEAD
 .grid-small, .entry{
+=======
+.grid-small, .at-form{
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
   width: 100%;
   @include medium-large{
 	 max-width:500px;
   }
+<<<<<<< HEAD
 	margin:0 auto;
+=======
+	margin-left: auto;
+  margin-right: auto;
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 }

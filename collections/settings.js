@@ -47,11 +47,19 @@ settingsSchemaObject = {
   defaultEmail: {
     type: String,
     optional: true
+<<<<<<< HEAD
   },       
   scoreUpdateInterval: {
     type: Number,
     optional: true
   }, 
+=======
+  },
+  scoreUpdateInterval: {
+    type: Number,
+    optional: true
+  },
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
   defaultView: {
     type: String,
     optional: true,
@@ -60,7 +68,11 @@ settingsSchemaObject = {
         return {
           value: camelCaseify(view.label),
           label: view.label
+<<<<<<< HEAD
         }
+=======
+        };
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
       })
     }
   },
@@ -119,7 +131,11 @@ settingsSchemaObject = {
   buttonTextColor: {
     type: String,
     optional: true
+<<<<<<< HEAD
   },  
+=======
+  },
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
   headerColor: {
     type: String,
     optional: true
@@ -127,7 +143,11 @@ settingsSchemaObject = {
   headerTextColor: {
     type: String,
     optional: true
+<<<<<<< HEAD
   },  
+=======
+  },
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
   twitterAccount: {
     type: String,
     optional: true
@@ -159,7 +179,11 @@ settingsSchemaObject = {
   notes: {
     type: String,
     optional: true
+<<<<<<< HEAD
   }                                                                                                                                                                            
+=======
+  },
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 };
 
 // add any extra properties to settingsSchemaObject (provided by packages for example)
@@ -177,3 +201,20 @@ Settings.allow({
   remove: isAdminById
 });
 
+<<<<<<< HEAD
+=======
+
+if (Meteor.isClient){
+  var query = Settings.find();
+  var handle = query.observeChanges({
+    added: function (id, fields) {
+      if (fields.language)
+        T9n.language = fields.language;
+    },
+    changed: function (id, fields) {
+      if (fields.language)
+        T9n.language = fields.language;
+    }
+  });
+}
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c

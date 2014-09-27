@@ -8,7 +8,12 @@ Package.onUse(function (api) {
 
   api.use([
     'telescope-lib',
+<<<<<<< HEAD
     'telescope-base', 
+=======
+    'telescope-base',
+    'telescope-email',
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     'aldeed:simple-schema'
   ], ['client', 'server']);
 

@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+## v0.9.6
+
+* Fixed security hole in user update. 
+* Kadira is now included by default. 
+* Comments now have their own feed (thanks @delgermurun!).
+* Fixed URL collision bug (thanks @GoodEveningMiss!).
+* Now using [`account-templates`](https://github.com/splendido/accounts-templates-core) (thanks @splendido!).
+* Retinizing avatar sizes (thanks @shaialon!).
+
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 ## v0.9.5 “FixScope”
 
 * Fixed `/settings` bug (thanks @steffenstraetz!).

@@ -37,6 +37,7 @@ postMeta = _.sortBy(postMeta, 'order');
 
 Meteor.startup(function () {
   $('#rss-link').attr('title', i18n.t('New Posts'));
+<<<<<<< HEAD
 
   AccountsEntry.config({
     homeRoute: '/',
@@ -44,4 +45,6 @@ Meteor.startup(function () {
     passwordSignupFields: 'USERNAME_AND_EMAIL',
     profileRoute: 'profile'
   });
+=======
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 });

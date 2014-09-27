@@ -2,7 +2,11 @@
   "dependencies": [
     [
       "accounts-base",
+<<<<<<< HEAD
       "1.1.0"
+=======
+      "1.1.1"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "application-configuration",
@@ -18,7 +22,11 @@
     ],
     [
       "blaze",
+<<<<<<< HEAD
       "2.0.0"
+=======
+      "2.0.1"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "blaze-tools",
@@ -34,6 +42,7 @@
     ],
     [
       "check",
+<<<<<<< HEAD
       "1.0.0"
     ],
     [
@@ -47,6 +56,21 @@
     [
       "ejson",
       "1.0.2"
+=======
+      "1.0.1"
+    ],
+    [
+      "ddp",
+      "1.0.9"
+    ],
+    [
+      "deps",
+      "1.0.4"
+    ],
+    [
+      "ejson",
+      "1.0.3"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "follower-livedata",
@@ -58,7 +82,11 @@
     ],
     [
       "html-tools",
+<<<<<<< HEAD
       "1.0.0"
+=======
+      "1.0.1"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "htmljs",
@@ -94,7 +122,11 @@
     ],
     [
       "livedata",
+<<<<<<< HEAD
       "1.0.9"
+=======
+      "1.0.10"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "localstorage",
@@ -106,11 +138,19 @@
     ],
     [
       "meteor",
+<<<<<<< HEAD
       "1.1.0"
     ],
     [
       "meteorhacks:fast-render",
       "1.1.0"
+=======
+      "1.1.1"
+    ],
+    [
+      "meteorhacks:fast-render",
+      "1.1.2"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "meteorhacks:subs-manager",
@@ -126,11 +166,19 @@
     ],
     [
       "mongo",
+<<<<<<< HEAD
       "1.0.5"
     ],
     [
       "mongo-livedata",
       "1.0.4"
+=======
+      "1.0.6"
+    ],
+    [
+      "mongo-livedata",
+      "1.0.5"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "observe-sequence",
@@ -146,11 +194,19 @@
     ],
     [
       "reactive-dict",
+<<<<<<< HEAD
       "1.0.2"
     ],
     [
       "reactive-var",
       "1.0.1"
+=======
+      "1.0.3"
+    ],
+    [
+      "reactive-var",
+      "1.0.2"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "retry",
@@ -166,7 +222,11 @@
     ],
     [
       "spacebars",
+<<<<<<< HEAD
       "1.0.1"
+=======
+      "1.0.2"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "spacebars-compiler",
@@ -186,7 +246,11 @@
     ],
     [
       "templating",
+<<<<<<< HEAD
       "1.0.6"
+=======
+      "1.0.7"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "tracker",
@@ -194,7 +258,11 @@
     ],
     [
       "ui",
+<<<<<<< HEAD
       "1.0.2"
+=======
+      "1.0.3"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "underscore",
@@ -202,7 +270,11 @@
     ],
     [
       "webapp",
+<<<<<<< HEAD
       "1.1.1"
+=======
+      "1.1.2"
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
     ],
     [
       "webapp-hashing",
@@ -210,6 +282,10 @@
     ]
   ],
   "pluginDependencies": [],
+<<<<<<< HEAD
   "toolVersion": "meteor-tool@1.0.31",
+=======
+  "toolVersion": "meteor-tool@1.0.32",
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
   "format": "1.0"
 }

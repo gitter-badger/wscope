@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 accounts-base@1.1.0
 accounts-facebook@1.0.0
 accounts-oauth@1.1.0
@@ -10,37 +11,73 @@ aldeed:collection2@2.0.0
 aldeed:simple-schema@1.0.3
 application-configuration@1.0.2
 autoupdate@1.1.0
+=======
+accounts-base@1.1.1
+accounts-facebook@1.0.1
+accounts-oauth@1.1.1
+accounts-password@1.0.2
+accounts-twitter@1.0.1
+accounts-ui-unstyled@1.1.2
+accounts-ui@1.1.1
+aldeed:autoform@2.0.2
+aldeed:collection2@2.1.0
+aldeed:simple-schema@1.0.3
+application-configuration@1.0.2
+autoupdate@1.1.1
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 backbone@1.0.0
 base64@1.0.0
 binary-heap@1.0.0
 blaze-tools@1.0.0
+<<<<<<< HEAD
 blaze@2.0.0
 boilerplate-generator@1.0.0
 callback-hook@1.0.0
 check@1.0.0
+=======
+blaze@2.0.1
+boilerplate-generator@1.0.0
+callback-hook@1.0.0
+check@1.0.1
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 chuangbo:marked@0.3.5
 cmather:handlebars-server@0.2.0
 coffeescript@1.0.3
 ctl-helper@1.0.3
 ctl@1.0.1
+<<<<<<< HEAD
 ddp@1.0.8
 deps@1.0.3
 djedi:sanitize-html@1.3.0
 ejson@1.0.2
 email@1.0.2
+=======
+ddp@1.0.9
+deps@1.0.4
+djedi:sanitize-html@1.3.0
+ejson@1.0.3
+email@1.0.3
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 facebook@1.1.0
 fastclick@1.0.0
 follower-livedata@1.0.1
 geojson-utils@1.0.0
 handlebars@1.0.0
+<<<<<<< HEAD
 html-tools@1.0.0
 htmljs@1.0.1
 http@1.0.5
+=======
+html-tools@1.0.1
+htmljs@1.0.1
+http@1.0.6
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 id-map@1.0.0
 iron:core@0.3.4
 iron:dynamic-template@0.4.1
 iron:layout@0.4.1
 iron:router@0.9.3
+<<<<<<< HEAD
 joshowens:accounts-entry@0.9.0
 joshowens:simple-form@0.1.8
 jquery@1.0.0
@@ -54,19 +91,42 @@ meteor-platform@1.1.0
 meteor@1.1.0
 meteorhacks:async@1.0.0
 meteorhacks:fast-render@1.1.0
+=======
+jquery@1.0.0
+json@1.0.0
+less@1.0.9
+livedata@1.0.10
+localstorage@1.0.0
+logging@1.0.3
+matb33:collection-hooks@0.7.6
+meteor-platform@1.1.1
+meteor@1.1.1
+meteorhacks:async@1.0.0
+meteorhacks:fast-render@1.1.2
+meteorhacks:kadira-binary-deps@1.0.1
+meteorhacks:kadira@2.9.2
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 meteorhacks:npm@1.2.0
 meteorhacks:subs-manager@1.1.0
 minifiers@1.1.0
 minimongo@1.0.3
 mobile-status-bar@1.0.0
+<<<<<<< HEAD
 mongo-livedata@1.0.4
 mongo@1.0.5
 mrt:accounts-t9n@0.0.13
+=======
+mongo-livedata@1.0.5
+mongo@1.0.6
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 mrt:cookies@0.3.0
 mrt:jquery-hotkeys@0.0.1
 mrt:mailchimp@0.4.0
 mrt:moment@2.8.1
+<<<<<<< HEAD
 mrt:underscore-string-latest@2.3.3
+=======
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 npm-bcrypt@0.7.7
 npm-container@1.0.0
 oauth1@1.1.0
@@ -77,14 +137,20 @@ ordered-dict@1.0.0
 percolatestudio:synced-cron@0.3.0
 rajit:bootstrap3-datepicker@1.3.1
 random@1.0.0
+<<<<<<< HEAD
 reactive-dict@1.0.2
 reactive-var@1.0.1
+=======
+reactive-dict@1.0.3
+reactive-var@1.0.2
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 reload@1.1.0
 retry@1.0.0
 routepolicy@1.0.1
 sacha:juice@0.1.0
 sacha:spin@2.0.4
 service-configuration@1.0.1
+<<<<<<< HEAD
 session@1.0.1
 sha@1.0.0
 spacebars-compiler@1.0.2
@@ -92,11 +158,27 @@ spacebars@1.0.1
 spiderable@1.0.3
 srp@1.0.0
 standard-app-packages@1.0.1
+=======
+session@1.0.2
+sha@1.0.0
+softwarerero:accounts-t9n@1.0.0
+spacebars-compiler@1.0.2
+spacebars@1.0.2
+spiderable@1.0.3
+splendido:accounts-templates-core@0.9.5
+splendido:accounts-templates-unstyled@0.9.5
+srp@1.0.0
+standard-app-packages@1.0.2
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 telescope-api@0.0.0
 telescope-base@0.0.0
 telescope-daily@0.0.0
 telescope-email@0.2.9
 telescope-i18n@0.0.0
+<<<<<<< HEAD
+=======
+telescope-kadira@0.1.0
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 telescope-lib@0.2.9
 telescope-module-embedly@0.2.9
 telescope-module-share@0.0.0
@@ -104,6 +186,7 @@ telescope-newsletter@0.1.0
 telescope-notifications@0.1.0
 telescope-rss@0.0.0
 telescope-search@0.0.0
+<<<<<<< HEAD
 telescope-static-pages@0.1.0
 telescope-tags@0.0.0
 telescope-theme-base@0.0.0
@@ -112,12 +195,27 @@ telescope-theme-hubble@0.0.0
 telescope-theme-hubblebox@0.0.0
 telescope-update-prompt@0.1.0
 templating@1.0.6
+=======
+telescope-tags@0.0.0
+telescope-theme-base@0.0.0
+telescope-theme-hubble@0.0.0
+telescope-update-prompt@0.1.0
+templating@1.0.7
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
 tmeasday:crypto-base@3.1.2
 tmeasday:crypto-md5@3.1.2
 tracker@1.0.2
 twitter@1.1.0
+<<<<<<< HEAD
 ui@1.0.2
 underscore@1.0.0
 url@1.0.0
 webapp-hashing@1.0.0
 webapp@1.1.1
+=======
+ui@1.0.3
+underscore@1.0.0
+url@1.0.0
+webapp-hashing@1.0.0
+webapp@1.1.2
+>>>>>>> eeb961d9059ea8ea21dd225590206a4bb0db568c
